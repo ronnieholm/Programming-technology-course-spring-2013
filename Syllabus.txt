@@ -1,0 +1,67 @@
+- Syllabus
+  - Pro C# 5.0 and the .NET 4.5 Framework (ISBN: 1430242337)
+    - Chapter 1: The Philosophy of .NET
+    - Chapter 2: Building C# Applications
+    - Chapter 3: Core C# Programming Constructs, Part I
+    - Chapter 4: Core C# Programming Constructs, Part II
+    - Chapter 5: Understanding Encapsulation
+    - Chapter 7: Understanding Structured Exception Handling
+    - Chapter 9: Collections and Generics
+    - Chapter 21: ADO.NET Part I: The Connected Layer
+
+  - C# 5.0 in a Nutshell (ISBN: 1449320104)
+    - Chapter 26: Regular Expressions
+
+  - Graphs, languages, and grammars
+    - http://en.wikipedia.org/wiki/Graph_(mathematics)
+    - http://en.wikipedia.org/wiki/Tree_(graph_theory)
+    - http://en.wikipedia.org/wiki/Tree_data_structure
+    - http://en.wikipedia.org/wiki/Abstract_syntax_tree
+    - http://en.wikipedia.org/wiki/Reverse_Polish_notation
+    - http://en.wikipedia.org/wiki/Shunting-yard_algorithm
+    - http://www.chris-j.co.uk/parsing.php
+    - http://en.wikipedia.org/wiki/Backus%E2%80%93Naur_Form
+    - http://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_Form
+
+  - Patterns in software development
+    - http://en.wikipedia.org/wiki/Design_pattern
+    - http://en.wikipedia.org/wiki/Software_design_pattern
+    - http://en.wikipedia.org/wiki/Architectural_pattern_(computer_science)
+    - http://en.wikipedia.org/wiki/Model-View-Controller
+    - http://en.wikipedia.org/wiki/Singleton_pattern
+    - GOF Singleton pattern.pdf on Fronter
+    - http://en.wikipedia.org/wiki/Observer_pattern
+    - http://en.wikipedia.org/wiki/Template_pattern
+    - http://en.wikipedia.org/wiki/Command_pattern
+    - http://martinfowler.com/eaaCatalog/repository.html
+    - http://martinfowler.com/eaaCatalog/dataMapper.html
+    - http://www.bugfree.dk/blog/2012/12/02/strongly-typed-sharepoint-list-operations-using-the-repository-pattern (example)
+    - http://www.bugfree.dk/blog/2012/12/06/bringing-together-repository-and-tree-structure-in-business-layer (example)
+    - http://www.bugfree.dk/blog/2011/11/23/using-a-generic-command-line-runner-for-utility-tasks (example)
+    - http://www.bugfree.dk/blog/2010/01/11/sharepoint-list-definition-using-the-template-pattern (example)
+    - https://github.com/ronnieholm/ParserSamples/blob/master/ShuntingYardParser/Parser/ShuntingYardParser.cs (example)
+
+  - Sorting algorithms
+    - Bubble sort
+      http://www.youtube.com/watch?v=P00xJgWzz2c
+    - Insertion sort
+      http://www.youtube.com/watch?v=c4BRHC7kTaQ
+  - Searching
+    - Linear and binary seach
+      http://www.youtube.com/watch?v=wNVCJj642n4
+  - Algorithmic complexity
+    - Big O, Big Omega, and Big Theta Notation
+      http://www.youtube.com/watch?v=6Ol2JbwoJp0
+    - Analyzing Bubble sort
+      http://www.youtube.com/watch?v=ni_zk257Nqo
+    - Big O Notations
+      http://www.youtube.com/watch?v=V6mKVRU1evU
+
+  - NDC 2011 talk: Kill Your ORM by Rob Conery
+    http://ndc2011.macsimum.no/mp4/Day2%20Thursday/Track1%201140-1240.mp4
+
+  - Keynote: Architecture the Lost Years by Robert Martin
+    http://www.youtube.com/watch?v=WpkDN78P884
+
+  - Keynote: The Power of Abstraction
+    http://www.infoq.com/presentations/programming-abstraction-liskov
